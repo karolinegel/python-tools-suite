@@ -1,2 +1,3 @@
-# python-tools-suite
-python-tools-suite
+# Python Tools Suite
+
+Utility functions for math, strings and logging.
