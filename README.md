@@ -3,3 +3,5 @@
 Utility functions for math, strings and logging.
 ## Run examples
 python calculator.py
+## Tests
+pytest
